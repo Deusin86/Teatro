@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="funcoes.h" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50773" topLine="153" />
+		</Cursor>
+		<Folding>
+			<Collapse line="0" />
+			<Collapse line="21" />
+			<Collapse line="138" />
+			<Collapse line="917" />
+			<Collapse line="1012" />
+			<Collapse line="1057" />
+			<Collapse line="1103" />
+			<Collapse line="1247" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="68" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="liga.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="736" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menuprincipal.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="651" topLine="68" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
